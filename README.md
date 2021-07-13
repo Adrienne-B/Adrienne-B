@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I also do digital drawings
+- ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
