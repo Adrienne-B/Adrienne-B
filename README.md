@@ -23,3 +23,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
+
+<div class="project-container">
+				<div class="project-card">
+					<article>
+						 <h5>Project one</h5>
+							<img src="./covers/julibee_austin.png" width="93" alt=""/> 
+					</article>
+			
+			
+					<article>	
+					  	<h5>Project Two</h5>
+				   			 <img src="./covers/rogue_pickings.png" width="43" height="275" alt="rogue_pickings"/> 
+					</article>
+			
+			
+			
+					<article>			
+						<h5>Project three</h5>
+							<img src="./covers/unplugged-retreat-website.png" width="93" alt="unplugged_retreat"/>
+					</article>
+					
+			
+					<article>			
+						<h5>Project four</h5>
+							<img src="./covers/festive_cuisines.png" width="93" alt=""/>	
+					</article>
+				</div>				
+			</div>
+
+		</section>
