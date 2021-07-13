@@ -24,32 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
 
-<div class="project-container">
-				<div class="project-card">
-					<article>
-						 <h5>Project one</h5>
-							<img src="./covers/julibee_austin.png" width="93" alt=""/> 
-					</article>
-			
-			
-					<article>	
-					  	<h5>Project Two</h5>
-				   			 <img src="./covers/rogue_pickings.png" width="43" height="275" alt="rogue_pickings"/> 
-					</article>
-			
-			
-			
-					<article>			
-						<h5>Project three</h5>
-							<img src="./covers/unplugged-retreat-website.png" width="93" alt="unplugged_retreat"/>
-					</article>
-					
-			
-					<article>			
-						<h5>Project four</h5>
-							<img src="./covers/festive_cuisines.png" width="93" alt=""/>	
-					</article>
-				</div>				
-			</div>
-
-		</section>
+<p><a href="https://www.facebook.com/yoursite" target="_blank"></a>
+						<i class="fab fa-facebook"></i>
+						</p>
+				
+						<p><a href="https://www.twitter.com/yoursite" target="_blank"></a><i class="fab fa-twitter"></i>
+						</p>
+						
+						<p><a href="https://www.instagram.com/yoursite" target="_blank"></a><i class="fab fa-instagram"></i>
