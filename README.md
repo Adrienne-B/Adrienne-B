@@ -10,7 +10,7 @@ I have two degrees:  — Associate of Applied Science: Entertainment and Technol
 Well wishes to all and keep moving forward!! :)
 
 
-**Adrienne-B/Adrienne-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<1--**Adrienne-B/Adrienne-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
