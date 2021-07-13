@@ -7,7 +7,7 @@
 Hello, software engineers, my name is Adrienne Burney, I am someone that has always been an ambitious individual, always ready to learn knew skills to add into my resume.
 I have two degrees:  — Associate of Applied Science: Entertainment and Technology —Bachelor of Arts: Graphic Design Visual of Arts; which has not only help me with creating graphic designs, such as logos, magazines, and more. But it gave me basics skills needed for the software engineering world. 
 
-Well wishes to all and to keep moving forward!! :)
+Well wishes to all and keep moving forward!! :)
 
 
 
