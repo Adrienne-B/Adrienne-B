@@ -24,9 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
 
-<a href="https://www.facebook.com/yoursite" target="_blank"></a>
-	<i class="fab fa-facebook"></i>
-						
-						
-<a href="https://www.instagram.com/yoursite" target="_blank"></a>
-<i class="fab fa-instagram"></i>
+
