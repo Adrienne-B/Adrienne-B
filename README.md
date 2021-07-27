@@ -19,7 +19,7 @@ Well wishes to all and keep moving forward!! :)
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: ...
+<!- 📫 How to reach me: ..-->.
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
