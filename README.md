@@ -1,3 +1,6 @@
+[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrienne-B)](https://github.com/Adrienne-B/github-readme-stats)
+
+
 ### Hi there 👋
 
 ![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)
