@@ -1,7 +1,9 @@
 
 ### Hi there 👋
 
-![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)
+![new linkedln banner](https://user-images.githubusercontent.com/80119637/161430900-d493e709-aab1-4062-bf18-ea5a87ea8e20.png)
+
+<!--![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)-->
 
 ## About Me
 
