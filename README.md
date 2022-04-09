@@ -9,7 +9,7 @@
 
 Hello, software engineers, my name is Adrienne Burney, I am someone that has always been an ambitious individual, always ready to learn new skills to add to my resume. I have two degrees: — Associate of Applied Science: Entertainment and Technology —Bachelor of Arts: Graphic Design Visual of Arts; and I have a certificate for front-end web developer from an online boot camp called Skillcrush. Everything that I have learned over these past few years has given me the basics skills needed for the software engineering world.
 
-Currently I am enrolled in a 4 month course to become a full-stack developer :)
+Currently I am enrolled in a 4 month course to become a full-stack (java) developer :)
 Well wishes to all and keep moving forward!! :)
 
 <!--**Adrienne-B/Adrienne-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -18,7 +18,7 @@ Well wishes to all and keep moving forward!! :)
 
 ### Other information
 
-- 🔭 I’m currently working on ... other personal projects
+- 🔭 I’m currently working on ... back-end programs
 - 🌱 I’m currently learning ...java, API, React
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
