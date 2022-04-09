@@ -19,7 +19,7 @@ Well wishes to all and keep moving forward!! :)
 ### Other information
 
 - 🔭 I’m currently working on ... other personal projects
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...java, API, React
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
