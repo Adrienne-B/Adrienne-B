@@ -16,7 +16,6 @@ Well wishes to all and keep moving forward!! :)
 
 [![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrienne-B)](https://github.com/Adrienne-B/github-readme-stats)
 
-[![Adrienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/github.com/Adrienne-B=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Other information
 
