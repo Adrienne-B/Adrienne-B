@@ -20,7 +20,7 @@ Well wishes to all and keep moving forward!! :)
 ### Other information
 
 - 🔭 I’m currently working on ... back-end programs
-- 🌱 I’m currently learning ...java/binary tree, API/Postman, React, and Spring Boot
+- 🌱 I’m currently learning ...java/binary tree, API/Postman, Java and Spring Boot
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
 <!---  Use the regular html comment to hide comments on here-->
