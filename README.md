@@ -18,7 +18,7 @@ Well wishes to all and keep moving forward!! :)
 
 ### Other information
 
-/*- 🔭 I’m currently working on ... back-end programs*/
+<!-- - 🔭 I’m currently working on ... back-end programs-->
 - 🌱 I’m currently learning ...java/binary tree, Docker, Java and Spring Boot
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I also do digital drawings and I am self teaching myself digital sculptings
