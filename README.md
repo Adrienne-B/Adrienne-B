@@ -5,7 +5,7 @@
 ![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)
 
 ## About Me
-My name is Adrienne Burney, I was born with the natural skills in the arts. Over the years, I have exhibited a strong sense of creativity while testing my artistic boundaries through education. As I got older, I utilized those skills and in return, I received my Associate’s degree in Entertainment Technology and Bachelor’s degree in Arts. During the outbreak of COVID-19, I realized that I needed tech skills. So, I attended boot camps to further understand front-end development.
+My name is Adrienne Burney, I was born with the natural skills in the arts. Over the years, I have exhibited a strong sense of creativity while testing my artistic boundaries through education. As I got older, I utilized those skills and in return, I received my Associate’s degree in Entertainment Technology and Bachelor’s degree in Arts. During the outbreak of COVID-19, I realized that I needed tech skills. So, I attended boot camps to further understand web development.
 
 However, my passion lied in creating imagery. Once I learned about UX/UI design, I self-taught and then invested in a boot camp course to further understand the process of a UX/UI designer. Although I have tech skills in coding, I found my passion in creating website templates. In my free time, I like to try foods from other cultures, dance, and digitally draw when I have the time.
 
