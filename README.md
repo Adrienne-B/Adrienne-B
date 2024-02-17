@@ -2,7 +2,8 @@
 ### Hi there 👋
 
 <!--![new linkedln banner](https://user-images.githubusercontent.com/80119637/161430900-d493e709-aab1-4062-bf18-ea5a87ea8e20.png)-->
-![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)
+
+<!--![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)-->
 
 <img src="https://media.licdn.com/dms/image/D5616AQGxxW_IFfsXYw/profile-displaybackgroundimage-shrink_350_1400/0/1703365953521?e=1713398400&v=beta&t=iVmDHbQd6baJlqae2FHdLmBxJculsKxPDa94VsMMs5Q">
 
