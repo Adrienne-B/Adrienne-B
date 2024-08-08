@@ -6,7 +6,7 @@
 <!--![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)-->
 
 <img src="https://media.licdn.com/dms/image/D5616AQGxxW_IFfsXYw/profile-displaybackgroundimage-shrink_350_1400/0/1703365953521?e=1713398400&v=beta&t=iVmDHbQd6baJlqae2FHdLmBxJculsKxPDa94VsMMs5Q">
-![Digital Illustratior banner - Copy](https://github.com/user-attachments/assets/89920730-fa79-4b62-a346-f3351f4d2548)
+[Digital Illustratior banner - Copy](https://github.com/user-attachments/assets/89920730-fa79-4b62-a346-f3351f4d2548)
 
 ## About Me
 My name is Adrienne Burney, I was born with the natural skills in the arts. As a UX/UI Designer I also have background knowledge in web development by investing myself in boot camps. So, check out my Github! :)
