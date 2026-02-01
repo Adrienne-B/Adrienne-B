@@ -1,10 +1,9 @@
 
 ### Hi there 👋
 
-
-
 ![new linkedln banner](https://github.com)
 
+![NEW ACTIVE BANNER](https://github.com/Adrienne-B/Adrienne-B/blob/main/Linkedln%20banner.png?raw=true)
 <!-- 
 Everything below this line is hidden 
 https://github.com
