@@ -17,7 +17,7 @@ https://github.com
 
 
 ## About Me
-My name is Adrienne Burney, I was born with the natural skills in the arts. As a Website & Visual Designer I also have background knowledge in web development by investing myself in boot camps. So, check out my Github! :)
+Designing has been a part of me since I was born, but I didn't stop at the arts. As a Website & Visual Designer, I’ve invested in mastering the building blocks of the web. By blending my natural creative skills with a background in web development, I build digital experiences that are cohesive, high-quality, and modern. My goal is simple: to create high-impact visuals that actually work on the web. Feel free to explore my projects on GitHub! :)
 
 Well wishes to all and keep moving forward!! :)
 
