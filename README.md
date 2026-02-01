@@ -23,7 +23,7 @@ Well wishes to all and keep moving forward!! :)
 
 <!--**Adrienne-B/Adrienne-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrienne-B)](https://github.com/Adrienne-B/github-readme-stats)
+<!--[![Adrienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrienne-B)](https://github.com/Adrienne-B/github-readme-stats)-->
 
 
 ### Other information
