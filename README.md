@@ -1,12 +1,6 @@
 
 ### Hi there 👋
 ![NEW ACTIVE BANNER](https://github.com/Adrienne-B/Adrienne-B/blob/main/Linkedln%20banner.png?raw=true)
-<!-- 
-Everything below this line is hidden 
-https://github.com
-![old linkedln banner](https://user-images.githubusercontent.com)
-![Alt text](https://res.cloudinary.com)
--->
 
 <!--![Alt text](https://res.cloudinary.com/djvsxf3n4/image/upload/v1626139391/github_banner_whrz8a.jpg)-->
 
